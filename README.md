@@ -40,7 +40,7 @@ Tenho 38 anos, moro em Itu/SP e sou apaixonado por tecnologia e dados! Estou na 
 </br>
 <div display="inline-block">
  <p align="left">🤿 Atuo como Analista de Banco de Dados;</p>
- <p align="left">📚 Tenho estudado PowerBI e Phyton iniciei meus estudos para desenvolver apps para Android;</p>
+ <p align="left">📚 Tenho estudado PowerBI e Phyton iniciei meus estudos para desenvolver melhor na área de Data Science;</p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos, menos nos boardgames) e faço piadas ruins com certa frequência.</p>
 </div>
 
