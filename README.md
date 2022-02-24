@@ -48,7 +48,7 @@ Tenho 38 anos, moro em Itu/SP e sou apaixonado por tecnologia e dados! Estou na 
 
 </br>
 
-📫 Você pode falar comigo pelo [LinkedIN](https://www.linkedin.com/in/hermes-lei-oliveira/) ou pelo [Twitter](https://twitter.com/hermeslei) (eu demoro a responder no twittwer) e pode conhecer meus projetos em andamento e já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [LinkedIN](https://www.linkedin.com/in/hermes-lei-oliveira/) ou pelo [Twitter](https://twitter.com/hermeslei) (eu demoro a responder no twitter) e pode conhecer meus projetos em andamento e já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
