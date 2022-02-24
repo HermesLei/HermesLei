@@ -57,7 +57,7 @@ Tenho 38 anos, moro em Itu/SP e sou apaixonado por tecnologia e dados! Estou na 
 ##
 <p align="center">
 <a href="https://github.com/HermesLei">
-  <img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HermesLei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HermesLei&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HermesLei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HermesLei&layout=darkt&langs_count=8&theme=algolia"/>
 </a>
 </p>
