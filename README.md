@@ -46,12 +46,12 @@ Tenho 38 anos, moro em Itu/SP e sou apaixonado por tecnologia e dados! Estou na 
 
 </br>
 
-📫 Você pode falar comigo pelo [LinkedIN](https://www.linkedin.com/in/hermes-oliveira-87817722/) ou pelo [Twitter](https://twitter.com/hermeslei) (eu demoro a responder no twittwer) e pode conhecer meus projetos em andamento e já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [LinkedIN](https://www.linkedin.com/in/hermes-lei-oliveira/) ou pelo [Twitter](https://twitter.com/hermeslei) (eu demoro a responder no twittwer) e pode conhecer meus projetos em andamento e já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
 <a href="https://twitter.com/hermeslei" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/hermes-oliveira-87817722/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/hermes-lei-oliveira/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </a>
 
 ##
