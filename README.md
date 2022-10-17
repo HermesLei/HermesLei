@@ -34,7 +34,7 @@ Tenho 39 anos, moro em São Caetano do Sul/SP e sou apaixonado por tecnologia e 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VISIAL STUDIO"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MONGODB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "BASH"/></code>
-<code><img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" title = "POWERBI"/></code>
+<code><img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" title ="POWERBI"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "PENTAHO DATA INTEGRATION"/></code>
 
 </br>
