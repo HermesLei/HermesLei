@@ -35,7 +35,7 @@ Tenho 39 anos, moro em São Caetano do Sul/SP e sou apaixonado por tecnologia e 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MONGODB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "BASH"/></code>
 <code><img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" title = "POWERBI"/></code>
-<code><img width="60px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" title = "PENTAHO"/></code>
+<code><img width="60px" src="[https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzappysys.com%2Fblog%2Fpentaho-read-rest-api-in-pentaho%2F&psig=AOvVaw3jRpJJWAbMpYhoYTx4tKHb&ust=1666122420698000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiSq-qD6PoCFQAAAAAdAAAAABAE)" title = "PENTAHO"/></code>
 <code><img width="40px" src="https://miro.medium.com/max/242/1*W_BE5kVceMAowxyyy_sDzQ.png" title = "PENTAHO DATA INTEGRATION"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "PENTAHO DATA INTEGRATION"/></code>
 
