@@ -37,6 +37,11 @@ Tenho 39 anos, moro em São Caetano do Sul/SP e sou apaixonado por tecnologia e 
 <code><img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" title ="POWERBI"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "Python"/></code>
 <code><img width="80px" src="https://iconape.com/wp-content/files/sc/352055/png/pentaho-logo.png" title = "Pentaho"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title = "SQL Server Integration Service"/></code>
+
+   
+          
+
 
 
 </br>
