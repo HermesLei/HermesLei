@@ -16,7 +16,7 @@
 
 ## E aí!!
 
-Tenho 39 anos, moro em São Caetano do Sul/SP e sou apaixonado por tecnologia e dados! Estou na área de tecnologia há um bom tempo, as vezes tempo até demais para meu gosto, mas fazer o que ainda amo isso
+Tenho 40 anos, moro em São Caetano do Sul/SP e sou apaixonado por tecnologia e dados! Estou na área de tecnologia há um bom tempo, as vezes tempo até demais para meu gosto, mas fazer o que ainda amo isso
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
